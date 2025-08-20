@@ -1,0 +1,4 @@
+{
+    "command": "./gradlew assembleDebug",
+    "working_directory": "/home/kavia/workspace/code-generation/wi-fi-direct-screen-cast-30325-24045/android_frontend"
+}
